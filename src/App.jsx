@@ -1,11 +1,11 @@
-import "./app.scss"
+import React from 'react';
+import './app.scss';
 function App() {
-
   return (
     <>
-      <h1 className="test">Hello world</h1>
+      <h1 className='test'>Hello world</h1>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
